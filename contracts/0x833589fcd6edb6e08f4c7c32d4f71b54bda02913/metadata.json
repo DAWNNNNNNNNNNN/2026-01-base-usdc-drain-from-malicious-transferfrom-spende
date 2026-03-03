@@ -1,0 +1,12 @@
+{
+  "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+  "chain_id": 8453,
+  "contract_name": "FiatTokenProxy",
+  "compiler": "v0.6.12+commit.27d51765",
+  "optimization": "1",
+  "runs": "10000000",
+  "evm_version": "istanbul",
+  "license": "",
+  "proxy": "1",
+  "implementation": "0x2ce6311ddae708829bc0784c967b7d77d19fd779"
+}
